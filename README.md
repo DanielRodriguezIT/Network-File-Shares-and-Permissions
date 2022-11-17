@@ -34,13 +34,13 @@ After the fodlers have been created what you want to do is share them on the net
 </p>
 <img src="https://i.imgur.com/hku11Pt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-If we login to the client machine with a normal user account we can test out the shared files we just created. 
+If we login to the client machine with a normal user account we can test out the shared files we just created. As you can see the permissions that we set are working properly.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/wcpB5Ex.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CGQ8yaO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://i.imgur.com/hku11Pt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/f9TldBO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.  
